@@ -1,5 +1,5 @@
 # system wide packages
-# psycopg2==2.6.1
+psycopg2-binary==2.8.6
 
 django==2.2.*
 six==1.10.0

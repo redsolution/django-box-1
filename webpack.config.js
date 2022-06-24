@@ -94,7 +94,7 @@ let conf = {
 					{
 						loader: 'file-loader',
 						options: {
-							name: '../font/[name].[ext]'
+							name: '../fonts/[name].[ext]'
 						}
 					}
 				]
